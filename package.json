@@ -1,5 +1,5 @@
 {
-  "name": "forge-issue-translation",
+  "name": "forge-summary-app",
   "version": "1.0.0",
   "main": "index.js",
   "license": "SEE LICENSE IN /LICENSE",
@@ -14,8 +14,6 @@
   },
   "dependencies": {
     "@forge/api": "^0.1.3",
-    "@forge/ui": "^0.2.0",
-    "curl-request": "^1.1.1",
-    "request": "^2.88.2"
+    "@forge/ui": "^0.2.0"
   }
 }

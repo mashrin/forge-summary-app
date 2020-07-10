@@ -3,7 +3,7 @@ modules:
     - key: forge-issue-summary
       function: main
       title: forge-issue-summary
-      description: Summarize issue fields into other languages
+      description: Summarize JIRA description
   function:
     - key: main
       handler: index.run
