@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: forge-issue-summary
+      function: main
+      title: forge-issue-summary
+      description: Summarize issue fields into other languages
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/1ef8cb75-e10a-42b5-b987-29e042b58bb8'
+  name: forge-issue-summary
